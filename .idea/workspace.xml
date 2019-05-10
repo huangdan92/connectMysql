@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc3489ae-3797-4e10-b690-4fbd05063048" name="Default" comment="" />
+    <list default="true" id="fc3489ae-3797-4e10-b690-4fbd05063048" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/db.properties" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -77,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPropertisread.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestPropertisread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/xinde/TestPropertisread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -127,9 +129,9 @@
         <option value="$PROJECT_DIR$/src/main/xinde/Mysqlread.java" />
         <option value="$PROJECT_DIR$/src/main/xinde/MysqlOperation.java" />
         <option value="$PROJECT_DIR$/src/main/xinde/TestPropertisread.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
       </list>
     </option>
   </component>
@@ -651,9 +653,6 @@
     <history-entry file="TestPropertisread - 2019.05.10 at 15h 00m 13s.xml">
       <configuration name="TestPropertisread" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPropertisread_test - 2019.05.10 at 13h 24m 54s.xml">
-      <configuration name="TestPropertisread.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestPropertisread_test - 2019.05.10 at 13h 27m 21s.xml">
       <configuration name="TestPropertisread.test" configurationId="JUnit" />
     </history-entry>
@@ -678,13 +677,15 @@
     <history-entry file="TestPropertisread_test - 2019.05.10 at 15h 03m 28s.xml">
       <configuration name="TestPropertisread.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestPropertisread_test - 2019.05.10 at 15h 11m 51s.xml">
+      <configuration name="TestPropertisread.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8684000" />
+    <option name="totallyTimeSpent" value="8790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1758" y="-55" width="1438" height="972" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -705,7 +706,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26697892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23710601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1004,14 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/xinde/TestPropertisread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1020,6 +1013,14 @@
             <element signature="imports" expanded="true" />
             <marker date="1557471451000" expanded="true" signature="415:473" ph="select updat... analysis_view" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
