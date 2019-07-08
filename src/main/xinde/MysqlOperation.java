@@ -23,7 +23,6 @@ public class MysqlOperation {
     }
 
 
-
     public static void close(Connection conn) {
         if (conn != null) {
             try {
