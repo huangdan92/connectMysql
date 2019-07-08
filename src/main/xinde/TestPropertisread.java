@@ -26,3 +26,4 @@ public class TestPropertisread {
         MysqlOperation.close(conn);
     }
 }
+
